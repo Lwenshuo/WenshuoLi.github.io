@@ -23,10 +23,14 @@ jobs:
         pip install -r google_scholar_crawler/requirements.txt
     
     - name: Run Google Scholar Crawler
+      env: 
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
       run: |
         python google_scholar_crawler/main.py
     
     - name: Push results to google-scholar-stats branch
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         cd google_scholar_crawler/results
         git config --global user.name "${GITHUB_ACTOR}"
@@ -35,5 +39,3 @@ jobs:
         git add *.json
         git commit -m "Updated Citation Data"
         git push -f "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:google-scholar-stats
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
