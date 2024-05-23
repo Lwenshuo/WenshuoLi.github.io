@@ -58,7 +58,7 @@ Advanced Robotics and Control Systems Design, including:
 
 ### Patents
 ---
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
+- 徐文福, 黄曦, `李文朔`, 袁晗, 梁斌 . 绳驱柔性机械臂的闭环运动控制方法及系统. [[网页]](https://www.patentstar.com.cn/Search/Detail?ANE=9GGF3BCA8BFA6CDA7ECA8DFA8ECA9GIF9AHA9FCEFGHA5BEA)
 
 <span class='anchor' id='-ryjx'></span>
 
