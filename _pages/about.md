@@ -26,6 +26,16 @@ Advanced Robotics and Control Systems Design, including:
 - AI-driven in Robotics
 - Robotic design, particularly for specialized environments
 
+{% include_relative includes/intro.md %}
+
+{% include_relative includes/news.md %}
+
+{% include_relative includes/pub.md %}
+
+{% include_relative includes/honers.md %}
+
+{% include_relative includes/others.md %}
+
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
@@ -68,8 +78,9 @@ Advanced Robotics and Control Systems Design, including:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Conferences
-- *2024.5*, ICRA24
-
+- *2024.5*, ICRA2024
+- *2023.12*, ROBIO2023
+- *2022.12*, ROBIO2022
 
 <span class='anchor' id='-gzsx'></span>
 
