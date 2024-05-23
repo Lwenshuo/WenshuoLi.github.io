@@ -26,15 +26,15 @@ Advanced Robotics and Control Systems Design, including:
 - AI-driven in Robotics
 - Robotic design, particularly for specialized environments
 
-<!-- {% include_relative includes/intro.md %} -->
+{% include_relative includes/intro.md %}
 
-<!-- {% include_relative includes/news.md %} -->
+{% include_relative includes/news.md %}
 
-<!-- {% include_relative includes/pub.md %} -->
+{% include_relative includes/pub.md %}
 
-<!-- {% include_relative includes/honers.md %} -->
+{% include_relative includes/honor.md %}
 
-<!-- {% include_relative includes/others.md %} -->
+{% include_relative includes/others.md %}
 
 <span class='anchor' id='-xl'></span>
 
