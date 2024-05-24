@@ -72,9 +72,9 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - `NeurIPS 2023` [Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective](https://openreview.net/forum?id=Rp4PA0ez0m), Pengfei Wei, Lingdong Kong, Xinghua Qu, **Yi Ren**, et al.
 - ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
 
-# 📝 Paper
+## 📝 Paper
 
-### Journal
+## Journal
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,13 +94,6 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 ### Patents
 ---
 - 徐文福, 黄曦, `李文朔`, 袁晗, 梁斌 . 绳驱柔性机械臂的闭环运动控制方法及系统. [[网页]](https://www.patentstar.com.cn/Search/Detail?ANE=9GGF3BCA8BFA6CDA7ECA8DFA8ECA9GIF9AHA9FCEFGHA5BEA)
-
-<span class='anchor' id='-ryjx'></span>
-
-# 🏅 Award
-
-
-<span class='anchor' id='-xshy'></span>
 
 # 🏛️ Conferences
 - *2024.5*, ICRA2024
