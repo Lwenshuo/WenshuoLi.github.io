@@ -46,7 +46,7 @@ Advanced Robotics and Control Systems Design, including:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 Paper
 
 ### Journal
 ---
