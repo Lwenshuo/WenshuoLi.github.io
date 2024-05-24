@@ -9,8 +9,7 @@
 **M.Sc. Thesis:** *Kinematic Model and Experimental Study of Soft Manipulator Under Contact Constraints*, supervised by **Prof. [Yinglong Chen](https://scholar.google.com.hk/citations?hl=zh-CN&user=eop5ycQAAAAJ&hl=EN)**
 
 **B.S. in Mechanical Engineering, specializing in Salvage Engineering (2012--2016)**  
-*GPA: 3.1/5, Dalian Maritime University, Dalian, China*  
-**B.Sc. Thesis:** *Title of Ph.D. Thesis*, supervised by **Prof. Wenqi Ma**
+*GPA: 3.1/5, Dalian Maritime University, Dalian, China*
 
 ## Research Interests
 
