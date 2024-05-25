@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I'm Wenshuo Li, a PH.D student at Harbin Institute of Technology.
 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+ <a href='https://scholar.google.com/citations?user=lQhUQnUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 Advanced Robotics and Control Systems Design, including:
 - Kinematics and dynamics, especially in redundant manipulators
