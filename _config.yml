@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Harbin Institute of Technology, Shenzhen"
   location         : "China Shenzhen"
-  employer         : #"Hefei General Machinery Research Institute"
+  employer         : #""
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
   email            : "20b953005@stu.hit.edu.cn"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : ""
+  orcid            : "https://orcid.org/0000-0002-1793-6353"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
