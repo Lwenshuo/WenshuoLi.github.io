@@ -26,6 +26,7 @@ Advanced Robotics and Control Systems Design, including:
 - Control Systems
 - AI-driven in Robotics
 - Robotic design, particularly for specialized environments
+- Soft manipulators
 
 {% include_relative includes/intro.md %}
 
