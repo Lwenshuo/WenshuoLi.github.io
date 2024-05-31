@@ -41,8 +41,8 @@ Advanced Robotics and Control Systems Design, including:
 
 # 🎓 Education
 - *2020--2024*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Ph.D. in Mechanical Engineering, GPA: 3.6/4, Harbin Institute of Technology, Shenzhen, China
-- *2017--2020*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> M.Eng. in Mechanical Engineering, GPA:3.8/5, Dalian Maritime University, Dalian, China
-- *2012--2016*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> B.S. in Mechanical Engineering (specializing in Salvage Engineering), GPA:3.8/5, GPA: 3.1/5, Dalian Maritime University, Dalian, China
+- *2017--2020*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/logo/DMU_s.png" width="20pt"></a> M.Eng. in Mechanical Engineering, GPA:3.8/5, Dalian Maritime University, Dalian, China
+- *2012--2016*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> B.S. in Mechanical Engineering (specializing in Salvage Engineering), GPA:3.8/5, GPA: 3.1/5, Dalian Maritime University, Dalian, China
  
 <span class='anchor' id='-lwzl'></span>
 
