@@ -17,14 +17,15 @@ Bin Liang, **Wenshuo Li***, ...
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tmech 2024</div><img src='images/pub/Tmech24.png' alt="Tmech" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tmech 2024</div><img src='images/pub/Tmech24.png' alt="Tmech" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Hybrid Tension-Position Control](https://doi.org/10.1109/TMECH.2024.3406920) \\
 Bin Liang, **Wenshuo Li\***, Boyang Lin, Lei Yan, Xueqian Wang, Wenfu Xu\*, "Hybrid Tension-Position Control of Cable-Driven Serial Manipulator to Improve Accuracy and Avoid Cable Slack and Breakage," in *IEEE/ASME Transactions on Mechatronics*, **Accept**.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tmech 2024</div><img src='images/pub/Tmech23.png' alt="Tmech" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tmech 2023</div><img src='images/pub/Tmech23.png' alt="Tmech" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Force Sensing and Compliance Control](https://doi.org/10.1109/TMECH.2023.3263922) \\
@@ -51,14 +52,15 @@ Boyang Lin, Wenfu Xu, **Wenshuo Li**, Han Yuan\*, and Bin Liang\*, "Ex-Situ Sens
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Industrial Robot 2020</div><img src='images/pub/IR20.png' alt="Industrial Robot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Static Modeling and Analysis](https://doi.org/10.1108/ir-07-2020-0131) \\
+[Statics of soft manipulator under contact environment](https://doi.org/10.1108/ir-07-2020-0131) \\
 Yinglong Chen, **Wenshuo Li**, Yongjun Gong, "Static modeling and analysis of soft manipulator considering environment contact based on segmented constant curvature method," in *Industrial Robot: the international journal of robotics research and application*, 2020.
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCA 2022</div><img src='images/pub/IJCA22.png' alt="IJCA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCA 2022</div><img src='images/pub/IJCAS22.png' alt="IJCAS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Kinematics Modeling of soft manipulator](10.1007/s12555-020-0559-6) \\
+
+[Kinematics of soft manipulator under contact environment](https://doi.org/10.1007/s12555-020-0559-6) \\
 YingLong Chen, **WenShuo Li**, Qiang Guo, YongJun Gong, "Kinematics modeling of soft manipulator interacting with environment using segmented variable curvature method," *International Journal of Control, Automation and Systems*, vol. 20, 2022.
 </div>
 </div>
