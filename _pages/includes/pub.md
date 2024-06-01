@@ -49,7 +49,7 @@ Boyang Lin, Wenfu Xu, **Wenshuo Li**, Han Yuan\*, and Bin Liang\*, "Ex-Situ Sens
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Industrial Robot 2020</div><img src='images/pub/IR20.png' alt="Industrial Robot" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Industrial Robot 2020</div><img src='images/pub/ID20.png' alt="Industrial Robot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Statics of soft manipulator under contact environment](https://doi.org/10.1108/ir-07-2020-0131) \\
@@ -57,7 +57,7 @@ Yinglong Chen, **Wenshuo Li**, Yongjun Gong, "Static modeling and analysis of so
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCA 2022</div><img src='images/pub/IJCAS22.png' alt="IJCAS" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCA 2022</div><img src='images/pub/IJCAS21.png' alt="IJCAS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Kinematics of soft manipulator under contact environment](https://doi.org/10.1007/s12555-020-0559-6) \\
