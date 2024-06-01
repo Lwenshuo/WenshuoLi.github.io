@@ -11,7 +11,7 @@
 [Hybrid Tension-Position Control](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
 Bin Liang, **Wenshuo Li***, ...
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tmech 2024</div><img src='images/pub/Tmech24.png' alt="Tmech" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tmech 2024</div><img src='images/pub/Tmech24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hybrid Tension-Position Control](https://example.com) \\
