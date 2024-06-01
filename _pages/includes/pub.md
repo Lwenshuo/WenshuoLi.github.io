@@ -65,6 +65,10 @@ YingLong Chen, **WenShuo Li**, Qiang Guo, YongJun Gong, "Kinematics modeling of 
 </div>
 </div>
 
+## 🗨️ Conferences
+- *2024.5*, ICRA2024
+- *2023.12*, ROBIO2023
+- *2022.12*, ROBIO2022
 
 ### Chinese journal paper
 ---
@@ -72,9 +76,5 @@ YingLong Chen, **WenShuo Li**, Qiang Guo, YongJun Gong, "Kinematics modeling of 
 
 ### Patents
 ---
+## Chinese Patents
 - 徐文福, 黄曦, `李文朔`, 袁晗, 梁斌 . 绳驱柔性机械臂的闭环运动控制方法及系统. [[website]](https://www.patentstar.com.cn/Search/Detail?ANE=9GGF3BCA8BFA6CDA7ECA8DFA8ECA9GIF9AHA9FCEFGHA5BEA)
-
-# 🗨️ Conferences
-- *2024.5*, ICRA2024
-- *2023.12*, ROBIO2023
-- *2022.12*, ROBIO2022
