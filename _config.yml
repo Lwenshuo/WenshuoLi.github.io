@@ -154,7 +154,6 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
